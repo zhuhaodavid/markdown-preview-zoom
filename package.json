@@ -1,5 +1,6 @@
 {
   "name": "markdown-preview-zoom",
+  "publisher": "hzhu",
   "displayName": "markdown-preview-zoom",
   "description": "",
   "version": "0.0.1",
@@ -9,6 +10,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuhaodavid/markdown-preview-zoom.git"
+  },
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
